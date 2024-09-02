@@ -1,0 +1,11 @@
+#A website that supports AI-powered chatbot in grievance redressal in the Indian government online website Central Public Grievance Redressal and Management System (CPGRAMS) 
+#Built on  ReactJS , MongoDB and Python 
+![WhatsApp Image 2024-09-02 at 11 14 34](https://github.com/user-attachments/assets/4ffaaec8-d136-4483-b4f1-35876ad2c987)
+![WhatsApp Image 2024-09-02 at 11 14 35](https://github.com/user-attachments/assets/2228c357-be2f-4e04-8a40-e8837b13be9b)
+![WhatsApp Image 2024-09-02 at 11 14 36 (2)](https://github.com/user-attachments/assets/d2cbbfdb-e23f-4276-9fb3-9518ebe3ff11)
+![WhatsApp Image 2024-09-02 at 11 14 36 (1)](https://github.com/user-attachments/assets/1c1b2eb5-64a8-4691-a2a5-52dd71144095)
+![WhatsApp Image 2024-09-02 at 11 14 36](https://github.com/user-attachments/assets/7708122f-bea3-4d95-92ab-d72ff2e0e721)
+![WhatsApp Image 2024-09-02 at 11 14 37 (2)](https://github.com/user-attachments/assets/c4d12666-7de7-49e5-8319-d19173d96139)
+![WhatsApp Image 2024-09-02 at 11 14 37 (1)](https://github.com/user-attachments/assets/436de8c4-dcc6-4425-a6fd-406c3afce139)
+![WhatsApp Image 2024-09-02 at 11 14 37](https://github.com/user-attachments/assets/c03803bf-afe8-405e-b017-1c004b98a99c)
+![WhatsApp Image 2024-09-02 at 11 14 38](https://github.com/user-attachments/assets/19937618-629d-46ed-9180-0740453c8565)
