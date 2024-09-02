@@ -1,0 +1,80 @@
+.main{
+    min-height: 100vh;
+    background-image: url("../img/loginpage.jpg");
+    /* background-image: url("https://tse4.mm.bing.net/th?id=OIP.h-JcFXNEP9QAU9Qyzf5IsQHaEK&pid=Api&P=0&h=180"); */
+    background-size: cover;
+}
+
+  .hi {
+    color: #12268a;
+    /* color: #f4f1d6; */
+  }
+  
+  .hi:hover {
+    color: #a90cc2;
+    cursor: pointer;
+  }
+  
+  .card{
+    border: 3px solid black;
+    width: 44vw;
+    max-width: 900px;
+    padding: 3%;
+    box-shadow: 0 18px 25px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    margin-top: 4%;
+    margin-left: 28%;
+    background-color: rgba(235, 235, 235, 0.7);
+  }
+  
+  .form{
+    /* display: flex;
+    flex-wrap: wrap; */
+    font-family: Arial, sans-serif;
+    margin-top: 5%;
+    margin-left: 4%;
+  }
+  
+  .columns-container{
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    justify-content: space-between;
+  }
+  
+  .column{
+    display: flex;
+    flex-direction: column;
+    gap: 1.9rem;
+    box-sizing: border-box;
+  }
+  
+  .but{
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .but:hover {
+    background-color: #455da0;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .card{
+      width: 80%; 
+      margin-left: 10%; 
+    }
+  
+    .columns-container {
+      flex-direction: column; 
+      align-items: center; 
+    }
+  
+    .column,
+    .but{
+      width: 100%; 
+      margin: 0; 
+    }
+  }
+  

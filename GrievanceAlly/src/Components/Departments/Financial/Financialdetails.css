@@ -1,0 +1,47 @@
+.department-container {
+    padding: 25px;
+    margin-left: 20%;
+    border: 4px solid #ddd;
+    border-radius: 8px;
+    margin-top: -3%;
+    width: 60%;
+    font-family: Arial, sans-serif;
+}
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+}
+.bhere{
+    margin-left: -30%;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+}
+
+.form-container {
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+}
+
+.label {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 200px; 
+    margin-right: 10px; 
+}
+
+
+.form-group p {
+    margin: 0; 
+}

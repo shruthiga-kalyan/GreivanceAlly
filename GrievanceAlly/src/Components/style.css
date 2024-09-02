@@ -1,0 +1,13 @@
+.h3{
+    color : #fff;
+    text-decoration: line-through;
+    user-select: none;
+    background-color: black;
+    border-radius:  5px;
+    /* margin-left: 40px; */
+    width: 100px;
+    height: 30px;
+    font-size: 22px;
+    margin-bottom: auto;
+  }
+  

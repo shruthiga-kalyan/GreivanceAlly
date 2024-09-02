@@ -1,0 +1,57 @@
+.department-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 4px solid #ddd;
+    margin-top: -2%;
+    border-radius: 8px;
+    width: 98%;
+    font-family: Arial, sans-serif;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+}
+
+  .MuiTableRow-root > * {
+    padding: 8px;
+  }
+  
+  .MuiTableRow-root.MuiTableRow-head > * {
+    font-weight: bold !important;
+    font-size: medium;
+  }
+  
+  .Table td,
+  th {
+    border: none !important;
+  }
+  
+  .Table:first-child {
+    border-radius: 0.7rem !important;
+  }
+  
+  .status {
+    padding: 8px;
+    border-radius: 9px;
+  }
+  
+  .Details {
+    color: rgb(67, 111, 186) !important;
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .TableContainer {
+      width: 90%;
+      margin-top: 2rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .TableContainer {
+      width: 23rem;
+    }
+  }
+  
